@@ -1,1 +1,8 @@
-
+header{
+    background-image: url(kep1.jpg);
+    background-size: cover;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
