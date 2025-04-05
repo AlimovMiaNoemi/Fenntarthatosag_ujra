@@ -1,24 +1,26 @@
 body {
-    background-color: rgb(12, 12, 12);
-    color: #fff;
+    background-color: rgba(105, 83, 94, 0.993);
+    color: rgb(226, 213, 222);
     text-align: justify;
 }
 header{
-    background-image: url(level.jpg);
+    background-image: url(banner4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 h1{
     font-family: fantasy;
     text-align: center;
-    color: black;
+    color: rgb(165, 131, 153);
     -webkit-text-stroke: 2px #fff;
     font-size: 500%;
-}
-hr {
-    border: solid 1px rgb(20, 20, 20);
-    margin-top: 0%;
 }
 #keret{
     padding: 2.5%;
