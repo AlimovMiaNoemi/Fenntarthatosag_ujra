@@ -51,12 +51,16 @@ a:visited{
     color: rgb(165, 131, 153);
 }
 #fenntfejlodes{
-    width: 100%;
-    height: 64%;
+    width: 50%;
+    height: 35%;
+    display: block;
+    margin: auto;
 }
 #viz{
-    width: 100%;
-    height: 60%;
+    width: 50%;
+    height: 45%;
+    display: block;
+    margin: auto;
 }
 #pitypang{
     width: 100%;
