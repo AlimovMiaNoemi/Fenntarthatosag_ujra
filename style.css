@@ -47,13 +47,16 @@ h1{
 }
 a:link{
     color: rgb(165, 131, 153);
+    text-decoration: none;
 }
 a:hover{
     color: rgb(165, 131, 153);
     font-weight: bolder;
+    text-decoration: none;
 }
 a:visited{
     color: rgb(165, 131, 153);
+    text-decoration: none;
 }
 #fenntfejlodes{
     width: 50%;
