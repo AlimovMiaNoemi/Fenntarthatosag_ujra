@@ -10,7 +10,7 @@ A másik tényező, amit le kellene küzdenie, a környezet elhasználódása, d
 
 
 
-A fenntarthatóság elvi alapja
+A fenntarthatóság elvi alapja                    
 
 Életrendünk akkor fenntartható, ha anyagforgalma körkörös, azaz illeszkedik a természet rendjébe.
 A fizika egy alapvető állítása szerint folyamatok körfolyamatokká alakíthatóak, ha kívülről elég energiát viszünk be a rendszerbe. Körfolyamattá alakítás során a bevitt energia részben hulladékhővé alakul. Ezért bármilyen gyártási eljárás és az azt követő felhasználás energia szempontjából körfolyamattá zárható, amennyiben van elég energia, és a hulladékhőt le tudjuk adni.
@@ -41,3 +41,18 @@ biogáz
 !
 v
 Forrás: https://hu.wikipedia.org/wiki/Fenntarthat%C3%B3_fejl%C5%91d%C3%A9s
+
+
+
+Hogyan járulhatunk hozzá a fenntartható fejlődéshez?
+
+Az első lépés az, hogy informálódjunk. E felé már meg is tetted az első lépést, de fontos, hogy naprakészen tartsuk tudásunkat, és kövessük figyelemmel a fejleményeket.
+
+Ha elég tájékozottak vagyunk a témában, akkor következhet a második lépés, ami az információ megosztását jelenti. Beszélgessünk kollégáinkkal, családtagjainkkal és barátainkkal az aktuális fejleményekről, hogy minél több emberhez eljuthasson az információ.
+
+
+Fenntarthatóság az irodában
+
+Napjainkban a cégek számára a - fogyasztók részéről - szinte elvárás, hogy a fenntarthatósági szempontokat is figyelembe vegyék, amire számtalan lehetőség kínálkozik. Az egyik leglátványosabb eredményt azzal lehet elérni, ha felülvizsgáljuk jelenlegi partnereinket, illetve szolgáltatónkat, és ha tehetjük, akkor zöldebb alternatívára váltunk. Legyen szó raktározásról, fuvarozásról vagy olyan alapvető szükségletek kielégítéséről, mint az ivóvíz.
+
+A csapvíz minősége hazánkban - különösen a nagyvárosokban -, a régi csővezetékek miatt kifogásolható. Ha viszont szeretnél minőségi és egészséges vizet nyújtani a munkatársak részére, akkor azt is megteheted a fenntartható módon.

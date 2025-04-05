@@ -37,3 +37,13 @@ h1{
     list-style-image: url(pinkflowerpngMANY.png);
     list-style-position: inside;
 }
+a:link{
+    color: rgb(165, 131, 153);
+}
+a:hover{
+    color: rgb(165, 131, 153);
+    font-weight: bolder;
+}
+a:visited{
+    color: rgb(165, 131, 153);
+}
