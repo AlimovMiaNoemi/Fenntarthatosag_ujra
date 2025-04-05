@@ -1,6 +1,6 @@
 body {
-    background-color: rgba(105, 83, 94, 0.993);
-    color: rgb(226, 213, 222);
+    background-color: rgb(143, 120, 135);
+    color: rgb(0, 0, 0);
 }
 header{
     background-image: url(banner4.jpg);
@@ -10,10 +10,12 @@ header{
 }
 p {
     font-family: 'Times New Roman', Times, serif;
+    -webkit-text-stroke: 0.5px rgb(77, 42, 60);
     text-align: justify;
 }
 h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    -webkit-text-stroke: 0.5px rgb(77, 42, 60);
 }
 h1{
     font-family: fantasy;
@@ -24,6 +26,9 @@ h1{
 }
 #keret{
     padding: 2.5%;
+    background-image: url(divbg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 #fold{
     width: 110%;
