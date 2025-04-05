@@ -42,3 +42,11 @@ a:hover{
 a:visited{
     color: rgb(165, 131, 153);
 }
+#fenntfejlodes{
+    width: 100%;
+    height: 64%;
+}
+#viz{
+    width: 100%;
+    height: 60%;
+}
