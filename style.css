@@ -1,7 +1,6 @@
 body {
     background-color: rgba(105, 83, 94, 0.993);
     color: rgb(226, 213, 222);
-    text-align: justify;
 }
 header{
     background-image: url(banner4.jpg);
@@ -11,6 +10,7 @@ header{
 }
 p {
     font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
 }
 h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
