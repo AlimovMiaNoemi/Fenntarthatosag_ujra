@@ -27,6 +27,11 @@ h1{
     -webkit-text-stroke: 2px #fff;
     font-size: 500%;
 }
+#belsokeret{
+    background-color: rgba(247, 246, 246, 0.247);
+    border-radius: 5%;
+    padding: 2.5%;
+}
 #keret{
     padding: 2.5%;
     background-image: url(divbgg.png);
