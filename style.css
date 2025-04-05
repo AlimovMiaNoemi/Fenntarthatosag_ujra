@@ -28,3 +28,7 @@ h1{
 #fold{
     width: 110%;
 }
+.felsorolas{
+    list-style-image: url(pinkflowerpngMANY.png);
+    list-style-position: inside;
+}
