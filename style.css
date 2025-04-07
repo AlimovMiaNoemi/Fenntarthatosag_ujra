@@ -50,16 +50,16 @@ h1{
     list-style-position: inside;
 }
 a:link{
-    color: rgb(165, 131, 153);
+    color: rgb(163, 44, 123);
     text-decoration: none;
 }
 a:hover{
-    color: rgb(165, 131, 153);
+    color: rgb(163, 44, 123);
     font-weight: bolder;
     text-decoration: none;
 }
 a:visited{
-    color: rgb(165, 131, 153);
+    color: rgb(163, 44, 123);
     text-decoration: none;
 }
 #fenntfejlodes{
@@ -75,6 +75,7 @@ a:visited{
     display: block;
     margin: auto;
     border-radius: 5%;
+    margin-bottom: 27%;
 }
 #pitypang{
     width: 100%;
@@ -87,6 +88,6 @@ a:visited{
     width: 60%;
     display: block;
     margin: auto;
-    margin-top: 15%;
+    margin-bottom: 7%;
     border-radius: 5%;
 }
