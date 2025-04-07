@@ -1,12 +1,12 @@
 body {
-    background-image: url(bg7.jpg);
+    background-image: url(kepek/bg7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     color: rgb(99, 49, 87);
 }
 header{
-    background-image: url(banner4.jpg);
+    background-image: url(kepek/banner4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -31,7 +31,7 @@ h1{
     background-color: rgba(247, 246, 246, 0.247);
     border-radius: 25px;
     padding: 2.5%;
-    background-image: url(Download_premium_png_of_PNG_Delicate_watercolor_floral_field_by_Tang_about_png__watercolor_flowers__flowers__plant__and_wildflowers_15267705-removebg-preview.png);
+    background-image: url(kepek/Download_premium_png_of_PNG_Delicate_watercolor_floral_field_by_Tang_about_png__watercolor_flowers__flowers__plant__and_wildflowers_15267705-removebg-preview.png);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: 100%;
@@ -39,7 +39,7 @@ h1{
 }
 #keret{
     padding: 2.5%;
-    background-image: url(divbgg.png);
+    background-image: url(kepek/divbgg.png);
     background-repeat: no-repeat;
     background-size:contain;
 }
@@ -47,7 +47,7 @@ h1{
     width: 110%;
 }
 .felsorolas{
-    list-style-image: url(pinkflowerpngMANY.png);
+    list-style-image: url(kepek/pinkflowerpngMANY.png);
     list-style-position: inside;
 }
 a:link{
