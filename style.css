@@ -35,6 +35,7 @@ h1{
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: 100%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 #keret{
     padding: 2.5%;
