@@ -1,1 +1,1 @@
-Best sustainability webpage hihi UwU
+UwU
